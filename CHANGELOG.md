@@ -21,5 +21,5 @@ The first release.
   and can be dragged. A sound, the words in large letters, a chat line and
   a taskbar flash, each with its own switch. Alarms ring until answered.
 - Runs on TBC Classic Anniversary and on Forever.
-- `/remind` for quick ones from chat, a page under Wick's Mods, and a line
+- A quick way to set one from chat, a page under Wick's Mods, and a line
   in the suite's launcher with the next countdown on broker displays.
