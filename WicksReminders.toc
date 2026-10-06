@@ -1,0 +1,15 @@
+## Interface: 20505, 20506, 16001
+## Title: Wick's Reminders
+## Notes: Timers, alarms and reminders that keep counting between sessions.
+## Author: Wick
+## Version: 0.1.0
+## OptionalDeps: WickCore
+## SavedVariables: WicksRemindersDB
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+## X-Website: https://wicksmods.com
+## X-License: MIT with trademark carve-out
+## X-WickCore: WickCore-1.0
+
+Core.lua
+Alert.lua
+UI.lua
