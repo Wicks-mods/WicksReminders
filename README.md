@@ -1,4 +1,4 @@
-<p align="center"><img src="images/wick-thumb-reminders-2x.png" alt="Wick's Reminders" width="460"></p>
+<p align="center"><img src="images/wick-thumb-reminders-classic-2x.png" alt="Wick's Reminders" width="460"></p>
 
 # Wick's Reminders
 
